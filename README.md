@@ -1,1 +1,1 @@
-# my-first-BI-project-
+# my-first-BI-project
